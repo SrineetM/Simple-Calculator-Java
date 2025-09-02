@@ -1,1 +1,1 @@
-# test
+Simple Terminal Calculator
